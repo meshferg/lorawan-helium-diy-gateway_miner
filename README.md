@@ -44,7 +44,12 @@ influxdbv2 (time series database)                /
 ### Build notes
  - Heat: (Not shown in image.) There is a piece of aluminum about 5mm thick sitting on top of the RAK2245. The aluminum was made sufficiently thicker with a few wraps of aluminum foil to bring it in solid contact with the Nebra case when the cover is closed. This way any RAK heat dissipates directly to the case. I used thermal paste (i.e. used when mounting a heat sink to a CPU) between the RAK and aluminum, and between the aluminum and the case.
  - GPS antenna is just magnetically attached to a long threaded bolt screwed into one of the Nebra case gland holes.
- - Entire unit is mounted outside on our barn.
+ - Standoffs: The PiSupply cases has a lot of standoffs, but their arrangement seems random. It comes with 
+  a cheap piece of sheet metal, but that is only held by two screws, and it is too flexible and not supportive
+  of boards. Strangely, for a company called "PiSupply" that seems to be the manufacturer of this cases, this case does not contain 
+  4 standoffs set in the dimensions for a Raspberry Pi. , So, I picked one standoff, and then used JBWeld Cold-Weld Steel epoxy 
+  to mount 3 more (see image) standoffs in the right places. 
+- Entire unit is mounted outside on our barn.
 ## Software
 I basically followed the guidance at helium: [Build a Hotspot](https://developer.helium.com/hotspot/developer-setup)
 A few notes:
