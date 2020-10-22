@@ -30,6 +30,7 @@ influxdbv2 (time series database)                /
  - Power Over Ethernet (PoE) hat
  - [RAK 2245](https://store.rakwireless.com/products/rak2245-pi-hat)
  - [Nebra IP67](https://uk.pi-supply.com/products/die-cast-outdoor-weatherproof-enclosure) enclosure from PiSupply in the UK
+ - [Antenna pigtail](https://uk.pi-supply.com/products/ufl-ipex-to-n-type-bulkhead) needed to mount antenna on Nebra
  - [Antenna](https://smile.amazon.com/gp/product/B07SL9KWXT)
  - [GPS antenna](https://www.digikey.com/product-detail/en/taoglas-limited/AA.162.301111/931-1238-ND/3945614), outdoor, magnetic base
  - [Mounting pole](https://smile.amazon.com/gp/product/B006J1WSGI)
